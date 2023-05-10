@@ -1,0 +1,51 @@
+.box{
+    display: flex;
+    font-size: 30px;
+    margin-top: 40px;
+    margin-left: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.body{
+    
+}
+.um{
+    flex: 1 1 auto;
+}
+.dois{
+    flex: 1 1 auto; 
+}
+.tres{
+    flex: 1 1 auto;
+}
+.quatro{
+    flex: 1 1 auto;
+}
+.image{
+    padding-top: 40px;
+    border:2px solid black;
+    text-align: center;
+    background-color: ghostwhite;
+    margin-right: 20px;
+    text-decoration: solid;
+    
+    
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+a:visited{
+    color: black;
+    text-decoration: none;
+}
+a:hover{
+    color: black;
+    text-decoration: none;
+}
+.titulo{
+    color: yellowgreen;
+    font-size: 80px;
+    font-family: sans-serif;
+    text-align: center;
+}
