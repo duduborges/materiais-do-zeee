@@ -84,3 +84,11 @@ a:hover{
 .produto{
     margin-bottom: 0;
 }
+.botoes{
+    font-size: 20px;
+    padding: 12px 28px;
+    border-radius: 8px;
+    background-color: transparent;
+    color: darkslategrey;
+    border: 2px solid yellow;
+}
