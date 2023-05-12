@@ -17,7 +17,8 @@
     padding:0;
     margin:0;
     color: white;
-    background-color: black;
+    background-image: url('https://thumbs.dreamstime.com/b/fundo-verde-azul-abstrato-vetorial-e-gradiente-amarelo-com-curvas-indefinidas-para-o-painel-traseiro-do-papel-de-parede-da-web-195169078.jpg');
+    height: 100%;
 }
 .um{
     flex: 1 1 auto;
@@ -45,20 +46,24 @@
 }
 .nove{
     flex: 1 1 auto;
+    
 }
 .image{
     padding-top: 40px;
     border:1px ridge grey;
     border-radius: 5px;
     text-align: center;
-    width: 400px;
-    height: 300px;
-    
+    width: 450px;
+    height: 270px;
+    background-image: url('https://media.istockphoto.com/id/1063685130/pt/foto/gradient-with-paris-daisy-yellow-screaming-green-bright-turquoise-blue-color-modern-texture.jpg?s=170667a&w=0&k=20&c=QnqH196QhXkzhPAl3d5oNL4xePvM39CPH9jYmcfuHGE=');
+    margin-bottom: 5px;
     margin-right: 30px;
+    opacity: 90%;
     text-decoration: solid whited;
     
     
 }
+
 a{
     color: white;
     text-decoration: none;
@@ -72,7 +77,7 @@ a:hover{
     text-decoration: none;
 }
 .titulo{
-    color: yellowgreen;
+    color: orange;
     font-size: 80px;
     font-family: sans-serif;
     text-align: center;
@@ -89,6 +94,7 @@ a:hover{
     padding: 12px 28px;
     border-radius: 8px;
     background-color: transparent;
-    color: darkslategrey;
+    color: ghostwhite;
     border: 2px solid yellow;
+    margin-right: 25px;
 }
